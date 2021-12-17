@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-banner {
+    display: flex;
+    flex-direction: row;
+    background-color: #4d2324;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+
+
+
+/* IMAGE STYLES */
+ 
+.head-logo {
+    width: 184px;
+    height: 172px;
+}
